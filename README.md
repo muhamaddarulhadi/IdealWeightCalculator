@@ -1,4 +1,6 @@
-## Use this calculation
+## Calculation
+
+The weight calculation are used from:
 
 1. Hamwi
 2. Devine
